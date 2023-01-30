@@ -35,7 +35,7 @@ h1 {
     color: rgb(76, 192, 235); 
 }
 
-.title-main {
+.title-main, h4 {
     color: grey;
 }
 
@@ -74,4 +74,28 @@ thead {
 .light-blue {
     text-align: left;
     background-color: rgb(182, 232, 247);
+}
+
+.footer-img1 {
+    
+    width: 280px;
+    height: 200px;
+    background-image: url("./img/monitor.jpg");
+    padding: 10px;
+    display: inline-block;
+    margin: 15px 0px;
+    color: white;
+}
+
+.footer-img2 {
+    width: 280px;
+    height: 200px;
+    background-image: url("./img/graph.jpg");
+    color: white;
+    padding: 10px;
+}
+
+.p-footer {
+    padding: 10px;
+    font-size: 20px;
 }
