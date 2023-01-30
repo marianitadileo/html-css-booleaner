@@ -5,4 +5,22 @@
 
 }
 
+/* header */
+header {
+    width: 10000px;
+    height: 165px;
+    background-color: rgb(64, 155, 225);
+    background-image: url("../img/pattern.png");
+    background-size: 650px;
+}
 
+.logo {
+    width: 250px;
+    height: 200px;
+    padding-top: 30px;
+    padding-left: 5px;
+}
+
+h1 {
+    font-size: 55px;
+}
