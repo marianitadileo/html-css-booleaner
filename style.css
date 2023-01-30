@@ -6,8 +6,9 @@
 }
 
 /* header */
+
 header {
-    width: 10000px;
+    width: 100%;
     height: 165px;
     background-color: rgb(64, 155, 225);
     background-image: url("../img/pattern.png");
@@ -19,8 +20,26 @@ header {
     height: 200px;
     padding-top: 30px;
     padding-left: 5px;
+    
+}
+
+/* main  */
+main {
+    padding-left: 5px;
 }
 
 h1 {
     font-size: 55px;
+}
+
+.title {
+color: rgb(76, 192, 235); 
+}
+
+.title-main {
+    color: grey;
+}
+ul li {
+    padding-left: 10px;
+    list-style-type:dotted;
 }
