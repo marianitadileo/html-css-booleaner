@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 
 /* header */
@@ -33,13 +32,46 @@ h1 {
 }
 
 .title {
-color: rgb(76, 192, 235); 
+    color: rgb(76, 192, 235); 
 }
 
 .title-main {
     color: grey;
 }
-ul li {
-    padding-left: 10px;
-    list-style-type:dotted;
+
+.img-1{
+    width: 56%;
+    height: 400px;
+}
+.img-2{
+    width: 42%;
+    height: 400px;
+ }
+
+.underline {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 21px; 
+}
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+}
+
+thead {
+    width: 100%;
+    background-color: rgb(99, 201, 255);
+    text-align: left;
+}
+
+.row-3{
+    width: 50%;
+}
+
+.light-blue {
+    text-align: left;
+    background-color: rgb(182, 232, 247);
 }
